@@ -93,9 +93,9 @@ The following models were trained:
 
 | Model | Accuracy |
 |--------|---------:|
-| Logistic Regression | 0.75 |
-| Decision Tree | *(Update with your result)* |
-| Random Forest | *(Update with your result)* |
+| Logistic Regression | 0.750 |
+| Decision Tree | 0.675 |
+| Random Forest | 0.745 |
 
 🏆 **Best Model:** Logistic Regression
 
