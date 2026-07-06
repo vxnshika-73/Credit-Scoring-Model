@@ -163,8 +163,4 @@ Save Model
 
 **Vanshika Soni**
 
-B.Tech CSE (AI & Data Science)
 
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
